@@ -5,7 +5,10 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Create a new react app using terminal
+<pre>
+npx create-react-app posenet
+</pre> 
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
